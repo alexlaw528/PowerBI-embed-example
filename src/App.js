@@ -3,7 +3,6 @@ import { PowerBIEmbed } from "powerbi-client-react";
 import { models } from "powerbi-client";
 
 function App() {
-  console.log("process.env.REPORT_ID: ", process.env.REACT_APP_REPORT_ID);
   return (
     <div className="App">
       <h1>PowerBI Embed Test</h1>

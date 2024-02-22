@@ -2,7 +2,16 @@
 
 https://learn.microsoft.com/en-us/javascript/api/overview/powerbi/powerbi-client-react
 
-## Embed Procedure
+###
+
+Run locally:
+
+```
+npm i
+npm run start
+```
+
+### Embed Procedure
 
 - Requires
   - Embed URL
